@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "@babel/register": "^7.18.9",
+    "@oclif/command": "^1.8.21",
+    "axios": "^1.2.2",
+    "bip39": "^3.0.4",
+    "bitcoinjs-lib": "^6.1.0",
+    "dotenv": "^16.0.3",
+    "oclif": "^3.4.3"
+  }
+}
